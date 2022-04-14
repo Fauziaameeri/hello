@@ -1,0 +1,14 @@
+{
+  "name": "fauziaameeri/328/hello",
+  "authors": [
+    {
+      "name": "Fauzia Ameeri",
+      "email": "ameeri.fauzia@student.greenriver.edu"
+    }
+  ],
+
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
