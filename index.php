@@ -7,6 +7,7 @@ error_reporting(E_ALL);
 //Require the autoload file
 require_once('vendor/autoload.php');
 
+//create an instance of the Base Class -
 //Create an instance of the Base class
 $f3 = Base::instance();
 
